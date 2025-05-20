@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^52.0.37",
+    "react-native-svg": "15.8.0"
+  }
+}
